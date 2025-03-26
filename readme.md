@@ -51,18 +51,18 @@ See on oluline osa tarkvaraarenduses ja -testimises, kuna see aitab tagada süst
 
 Siin on mõned levinud UI testimise raamistikud:
 
-Selenium – Avatud lähtekoodiga tööriist veebirakenduste testimiseks erinevates brauserites (Java, Python, C#).
+- Selenium – Avatud lähtekoodiga tööriist veebirakenduste testimiseks erinevates brauserites (Java, Python, C#).
 
-Cypress – JavaScript-põhine, kiire ja lihtne veebirakenduste testimiseks, kuid ei toeta kõiki brausereid.
+- Cypress – JavaScript-põhine, kiire ja lihtne veebirakenduste testimiseks, kuid ei toeta kõiki brausereid.
 
-TestCafe – Lihtne JavaScript-põhine raamistik, mis toetab kõiki tänapäevaseid brausereid ja ei vaja lisasõltuvusi.
+- TestCafe – Lihtne JavaScript-põhine raamistik, mis toetab kõiki tänapäevaseid brausereid ja ei vaja lisasõltuvusi.
 
-Appium – Mobiilirakenduste testimiseks Androidis ja iOS-is, toetab erinevaid programmeerimiskeeli.
+- Appium – Mobiilirakenduste testimiseks Androidis ja iOS-is, toetab erinevaid programmeerimiskeeli.
 
-Playwright – Microsofti loodud tööriist, toetab veebirakenduste testimist mitmesugustes brauserites ja platvormidel.
+- Playwright – Microsofti loodud tööriist, toetab veebirakenduste testimist mitmesugustes brauserites ja platvormidel.
 
-Robot Framework – Avatud lähtekoodiga raamistik, kasutab Seleniumi ja muid tööriistu veebirakenduste testimiseks.
+- Robot Framework – Avatud lähtekoodiga raamistik, kasutab Seleniumi ja muid tööriistu veebirakenduste testimiseks.
 
-Katalon Studio – Lihtne kasutada, pakub visuaalset testimist nii veeb- kui mobiilirakendustes.
+- Katalon Studio – Lihtne kasutada, pakub visuaalset testimist nii veeb- kui mobiilirakendustes.
 
-SikuliX – Graafiliste elementide testimiseks kasutab piltide tuvastamist.
+- SikuliX – Graafiliste elementide testimiseks kasutab piltide tuvastamist.
