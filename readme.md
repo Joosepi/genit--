@@ -47,4 +47,22 @@ See on oluline osa tarkvaraarenduses ja -testimises, kuna see aitab tagada süst
    - Kasutage testimisraamistikke nagu Selenium (veebirakenduste jaoks), JUnit või TestNG (Java jaoks) jne.
    - Automatiseerige funktsionaalsuse ja regressioonitestid.
 
-Kas teil on konkreetseid küsimusi või vajate abi testplantide koostamisel mingi konkreetse süsteemi jaoks?
+### UI testimise raamistikud on tööriistad, mis automatiseerivad ja haldavad kasutajaliidese testimist, kontrollides elementide (nuppude, väljade jne) õiget käitumist erinevates stsenaariumides. Need raamistikud on olulised, kuna kasutajaliides on see osa rakendusest, millega lõppkasutajad otseselt suhtlevad.
+
+Siin on mõned levinud UI testimise raamistikud:
+
+Selenium – Avatud lähtekoodiga tööriist veebirakenduste testimiseks erinevates brauserites (Java, Python, C#).
+
+Cypress – JavaScript-põhine, kiire ja lihtne veebirakenduste testimiseks, kuid ei toeta kõiki brausereid.
+
+TestCafe – Lihtne JavaScript-põhine raamistik, mis toetab kõiki tänapäevaseid brausereid ja ei vaja lisasõltuvusi.
+
+Appium – Mobiilirakenduste testimiseks Androidis ja iOS-is, toetab erinevaid programmeerimiskeeli.
+
+Playwright – Microsofti loodud tööriist, toetab veebirakenduste testimist mitmesugustes brauserites ja platvormidel.
+
+Robot Framework – Avatud lähtekoodiga raamistik, kasutab Seleniumi ja muid tööriistu veebirakenduste testimiseks.
+
+Katalon Studio – Lihtne kasutada, pakub visuaalset testimist nii veeb- kui mobiilirakendustes.
+
+SikuliX – Graafiliste elementide testimiseks kasutab piltide tuvastamist.
