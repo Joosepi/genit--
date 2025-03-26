@@ -1,4 +1,4 @@
-#Süsteemi testplant on oluline osa tarkvaraarenduses ja -testimises, kuna see aitab tagada süsteemi funktsionaalsuse ja usaldusväärsuse. Testplanti koostamine tähendab kõigi testimisprotsesside ja testide haldamist, et kontrollida süsteemi kõiki komponente ja nende vastavust määratud nõuetele.
+# Süsteemi testplant on oluline osa tarkvaraarenduses ja -testimises, kuna see aitab tagada süsteemi funktsionaalsuse ja usaldusväärsuse. Testplanti koostamine tähendab kõigi testimisprotsesside ja testide haldamist, et kontrollida süsteemi kõiki komponente ja nende vastavust määratud nõuetele.
 
 kuidas testplant koostada:
 
