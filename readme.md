@@ -47,7 +47,8 @@ See on oluline osa tarkvaraarenduses ja -testimises, kuna see aitab tagada süst
    - Kasutage testimisraamistikke nagu Selenium (veebirakenduste jaoks), JUnit või TestNG (Java jaoks) jne.
    - Automatiseerige funktsionaalsuse ja regressioonitestid.
 
-### UI testimise raamistikud on tööriistad, mis automatiseerivad ja haldavad kasutajaliidese testimist, kontrollides elementide (nuppude, väljade jne) õiget käitumist erinevates stsenaariumides. Need raamistikud on olulised, kuna kasutajaliides on see osa rakendusest, millega lõppkasutajad otseselt suhtlevad.
+### UI testimise raamistikud
+Mis on UI testimise raamistikud? See on tööriistad, mis automatiseerivad ja haldavad kasutajaliidese testimist, kontrollides elementide (nuppude, väljade jne) õiget käitumist erinevates stsenaariumides. Need raamistikud on olulised, kuna kasutajaliides on see osa rakendusest, millega lõppkasutajad otseselt suhtlevad.
 
 Siin on mõned levinud UI testimise raamistikud:
 
