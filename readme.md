@@ -52,18 +52,11 @@ Mis on UI testimise raamistikud? See on tööriistad, mis automatiseerivad ja ha
 
 Siin on mõned levinud UI testimise raamistikud:
 
-- Selenium – Avatud lähtekoodiga tööriist veebirakenduste testimiseks erinevates brauserites (Java, Python, C#).
-
-- Cypress – JavaScript-põhine, kiire ja lihtne veebirakenduste testimiseks, kuid ei toeta kõiki brausereid.
-
-- TestCafe – Lihtne JavaScript-põhine raamistik, mis toetab kõiki tänapäevaseid brausereid ja ei vaja lisasõltuvusi.
-
-- Appium – Mobiilirakenduste testimiseks Androidis ja iOS-is, toetab erinevaid programmeerimiskeeli.
-
-- Playwright – Microsofti loodud tööriist, toetab veebirakenduste testimist mitmesugustes brauserites ja platvormidel.
-
-- Robot Framework – Avatud lähtekoodiga raamistik, kasutab Seleniumi ja muid tööriistu veebirakenduste testimiseks.
-
-- Katalon Studio – Lihtne kasutada, pakub visuaalset testimist nii veeb- kui mobiilirakendustes.
-
-- SikuliX – Graafiliste elementide testimiseks kasutab piltide tuvastamist.
+- Selenium
+- Cypress 
+- TestCafe 
+- Appium 
+- Playwright 
+- Robot Framework 
+- Katalon Studio 
+- SikuliX 
